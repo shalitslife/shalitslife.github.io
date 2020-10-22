@@ -2,12 +2,10 @@
 title: Acknowledgment
 permalink: /thanks/
 layout: page
-excerpt: Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
 comments: false
 ---
+Thank you to everyone who clipped streams, made memes, and all those behind the scenes who helped put this site together.
+But most of all, thank you Shalit for the incredible times and for sharing a part of your life with us. You will be missed!
 
-Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
-
-<hr>
-
-Hopefully the knowledge that I got from them can be useful, and become a charity for them, Aamiin.
+> ...heard you got a new site. Would you mind uploading each video separately to a Google Drive so I can have access in case the site goes down?
+> - Shalit
