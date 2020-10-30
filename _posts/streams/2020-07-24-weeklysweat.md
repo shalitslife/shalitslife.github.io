@@ -3,7 +3,6 @@ title: The Weekly Sweat - Shalit News Crossover
 date: 2020-07-24
 tags: [stream, interview, beardson, snn]
 ---
-
 <div class="plyr__video-embed" class="js-player">
   <iframe
     src="https://youtu.be/gh6bkJzHQkU"
