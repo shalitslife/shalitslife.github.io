@@ -29,11 +29,11 @@ Part 4
 
 ### Jimbo's Stream
 Part 1
-<video class="js-player" playsinline controls data-poster="">
-  <source src="" type="video/mp4" size="1080">
+<video class="js-player" playsinline controls>
+  <source src="https://archive.org/download/shalit_archive/Borderlands%202%20w_%20Shal%20Pal%202020-09-18%2008_37.mp4" type="video/mp4" size="1080">
 </video>
 
 Part 2
-<video class="js-player" playsinline controls data-poster="">
-  <source src="" type="video/mp4" size="1080">
+<video class="js-player" playsinline controls>
+  <source src="https://archive.org/download/shalit_archive/Borderlands%202%20w_%20Shal%20Pal%202020-09-18%2008_48.mp4" type="video/mp4" size="1080">
 </video>
