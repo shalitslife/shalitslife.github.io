@@ -4,6 +4,17 @@ date: 2020-02-28
 tags: [shalitpac, afpac, cpac, jimbo, jaden, nick, jd, matt, baked, beardson, patrick, ralph, scott, irl]
 description: It's ShalitPAC, not CPAC
 ---
+### Streams
+After Mindy's Arrest
+<video class="js-player" playsinline controls data-poster="https://archive.org/download/shalit_archive/Shalit/Photos/mpv-shot0001.jpg">
+  <source src="https://archive.org/download/shalit_archive/Shalit/IRL/groypcast%20Save%20The%201A%20Stream%20w%20Aj%2C%20Nick%20Fuentes%2C%20Owen%20Shroyer%202%20feb%2028%202020%201582957425000.mp4" type="video/mp4"/>
+</video>
+
+Recap
+<video class="js-player" playsinline controls data-poster="https://archive.org/download/shalit_archive/Shalit/Photos/shalit_point.png">
+  <source src="https://archive.org/download/shalit_archive/Shalit/IRL/groypcast%20GroypCast%20x%20Shalit%20Crossover%20stream%20feb%2029%202020_blurred.mp4" type="video/mp4"/>
+</video>
+
 ### Clips
 <div class="plyr__video-embed" class="js-player">
   <iframe
@@ -16,7 +27,7 @@ description: It's ShalitPAC, not CPAC
 [Archive.org Download](https://archive.org/download/shalit_archive/Shalit/IRL/CPAC%20IRL%2C%20Thot%20vs%20Thot%2C%20Return%20of%20Baked%20Alaska%20-%20Jaden%20McNeil-UZo8uYSYhgU.mp4)
 
 Shalit v. Carpe Donktum & John Cardillo @ ShalitPAC
-<video id="player" class="js-player" playsinline controls>
+<video class="js-player" playsinline controls>
   <source src="https://archive.org/download/shalit_archive/Shalit/Clips/Ph%F0%9D%94%84ntasy%20%23ripshally%20%F0%9F%8E%87%20%F0%9F%8F%AE%20-%20lmfaoooo-1315423127271288833.mp4" type="video/mp4"/>
 </video>
 
